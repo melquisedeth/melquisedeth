@@ -2,7 +2,7 @@
 
 <!--
 **melquisedeth/melquisedeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Name: David Alexander Ariza Ibañez
 
 -Summary
@@ -19,12 +19,14 @@ Duration: 2 years.
 - 👯 Interests
 I am interested in learning new web technologies, exploring frameworks, and expanding my knowledge in web application development. I am also open to collaborating on exciting and challenging projects to further my professional growth.
 
-- 🤔 Technical Skills
+- 🤔 Technical Skills:
+
 Programming Languages: HTML, CSS, PHP, JavaScript
+
 Databases: MySQL
 Tools: XAMPP, Visual Studio Code
 
 - 📫 
 - 😄 
 - ⚡ 
--->
+
